@@ -1,3 +1,4 @@
+
 let imagesItems = [...document.querySelectorAll(".img-wrap")];
 let titles = [...document.querySelectorAll("h2")];
 let titleMessage = document.querySelector(".title");
